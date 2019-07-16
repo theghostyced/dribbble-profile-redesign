@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/dribbble-profile-redesign/static/css/main.fdac15a0.chunk.css",
+    "main.js": "/dribbble-profile-redesign/static/js/main.650309c8.chunk.js",
+    "main.js.map": "/dribbble-profile-redesign/static/js/main.650309c8.chunk.js.map",
+    "runtime~main.js": "/dribbble-profile-redesign/static/js/runtime~main.106a992b.js",
+    "runtime~main.js.map": "/dribbble-profile-redesign/static/js/runtime~main.106a992b.js.map",
+    "static/js/2.ef7a9a4f.chunk.js": "/dribbble-profile-redesign/static/js/2.ef7a9a4f.chunk.js",
+    "static/js/2.ef7a9a4f.chunk.js.map": "/dribbble-profile-redesign/static/js/2.ef7a9a4f.chunk.js.map",
+    "index.html": "/dribbble-profile-redesign/index.html",
+    "precache-manifest.ff631afb17d55be57bd8fcd9650aaaec.js": "/dribbble-profile-redesign/precache-manifest.ff631afb17d55be57bd8fcd9650aaaec.js",
+    "service-worker.js": "/dribbble-profile-redesign/service-worker.js",
+    "static/css/main.fdac15a0.chunk.css.map": "/dribbble-profile-redesign/static/css/main.fdac15a0.chunk.css.map",
+    "static/media/bundle.css": "/dribbble-profile-redesign/static/media/NHaasGroteskTXPro-75Bd.6131025d.ttf",
+    "static/media/avatar.jpg": "/dribbble-profile-redesign/static/media/avatar.c4512112.jpg",
+    "static/media/dribbble.svg": "/dribbble-profile-redesign/static/media/dribbble.651e75a6.svg",
+    "static/media/invoice_maker_4x.jpg": "/dribbble-profile-redesign/static/media/invoice_maker_4x.7fc8ff75.jpg",
+    "static/media/pablo-basketball-game.png": "/dribbble-profile-redesign/static/media/pablo-basketball-game.23386ed5.png",
+    "static/media/pablo-car-rental.png": "/dribbble-profile-redesign/static/media/pablo-car-rental.41db05b4.png",
+    "static/media/pablo-cinema.png": "/dribbble-profile-redesign/static/media/pablo-cinema.024dfd29.png",
+    "static/media/pablo-family.png": "/dribbble-profile-redesign/static/media/pablo-family.49716ec4.png",
+    "static/media/pablo-healthy-life.png": "/dribbble-profile-redesign/static/media/pablo-healthy-life.ccbe8621.png",
+    "static/media/pablo-unsubscribed.png": "/dribbble-profile-redesign/static/media/pablo-unsubscribed.5bf0b66c.png",
+    "static/media/pablo-workshop.png": "/dribbble-profile-redesign/static/media/pablo-workshop.c0a8206e.png"
+  }
+}

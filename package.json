@@ -1,0 +1,38 @@
+{
+  "name": "dribbble-redesign",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "gh-pages": "^2.0.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "3.0.1",
+    "sprogress": "^1.0.1",
+    "tailwindcss": "^1.0.5"
+  },
+  "scripts": {
+    "start": "npm run processCSS && react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "processCSS": "npx tailwind build ./src/static/styles.css -o ./src/static/output.css",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "homepage": "https://theghostyced.github.io/dribbble-profile-redesign",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
