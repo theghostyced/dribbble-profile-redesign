@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cdb503b4.chunk.css",
+    "main.js": "/static/js/main.79e66e94.chunk.js",
+    "main.js.map": "/static/js/main.79e66e94.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.ef7a9a4f.chunk.js": "/static/js/2.ef7a9a4f.chunk.js",
+    "static/js/2.ef7a9a4f.chunk.js.map": "/static/js/2.ef7a9a4f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.96ce3e6f3a62101047f28bf08d0c4544.js": "/precache-manifest.96ce3e6f3a62101047f28bf08d0c4544.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.cdb503b4.chunk.css.map": "/static/css/main.cdb503b4.chunk.css.map",
+    "static/media/bundle.css": "/static/media/NHaasGroteskTXPro-75Bd.6131025d.ttf",
+    "static/media/avatar.jpg": "/static/media/avatar.c4512112.jpg",
+    "static/media/dribbble.svg": "/static/media/dribbble.651e75a6.svg",
+    "static/media/invoice_maker_4x.jpg": "/static/media/invoice_maker_4x.7fc8ff75.jpg",
+    "static/media/pablo-basketball-game.png": "/static/media/pablo-basketball-game.23386ed5.png",
+    "static/media/pablo-car-rental.png": "/static/media/pablo-car-rental.41db05b4.png",
+    "static/media/pablo-cinema.png": "/static/media/pablo-cinema.024dfd29.png",
+    "static/media/pablo-family.png": "/static/media/pablo-family.49716ec4.png",
+    "static/media/pablo-healthy-life.png": "/static/media/pablo-healthy-life.ccbe8621.png",
+    "static/media/pablo-unsubscribed.png": "/static/media/pablo-unsubscribed.5bf0b66c.png",
+    "static/media/pablo-workshop.png": "/static/media/pablo-workshop.c0a8206e.png"
+  }
+}
