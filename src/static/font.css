@@ -1,0 +1,13 @@
+@font-face {
+  font-family: '"Neue Haas"';
+  src: url('./fonts/NHaasGroteskTXPro-55Rg.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: '"Neue Haas"';
+  src: url('./fonts/NHaasGroteskTXPro-75Bd.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
