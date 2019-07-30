@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/dribbble-redesign/static/css/main.7576f203.chunk.css",
+    "main.js": "/dribbble-redesign/static/js/main.c72d9d0f.chunk.js",
+    "main.js.map": "/dribbble-redesign/static/js/main.c72d9d0f.chunk.js.map",
+    "runtime~main.js": "/dribbble-redesign/static/js/runtime~main.aa42e57f.js",
+    "runtime~main.js.map": "/dribbble-redesign/static/js/runtime~main.aa42e57f.js.map",
+    "static/js/2.ef7a9a4f.chunk.js": "/dribbble-redesign/static/js/2.ef7a9a4f.chunk.js",
+    "static/js/2.ef7a9a4f.chunk.js.map": "/dribbble-redesign/static/js/2.ef7a9a4f.chunk.js.map",
+    "index.html": "/dribbble-redesign/index.html",
+    "precache-manifest.02c02169a46c1d6413f3c6a748abb64f.js": "/dribbble-redesign/precache-manifest.02c02169a46c1d6413f3c6a748abb64f.js",
+    "service-worker.js": "/dribbble-redesign/service-worker.js",
+    "static/css/main.7576f203.chunk.css.map": "/dribbble-redesign/static/css/main.7576f203.chunk.css.map",
+    "static/media/bundle.css": "/dribbble-redesign/static/media/NHaasGroteskTXPro-75Bd.6131025d.ttf",
+    "static/media/avatar.jpg": "/dribbble-redesign/static/media/avatar.c4512112.jpg",
+    "static/media/dribbble.svg": "/dribbble-redesign/static/media/dribbble.651e75a6.svg",
+    "static/media/invoice_maker_4x.jpg": "/dribbble-redesign/static/media/invoice_maker_4x.7fc8ff75.jpg",
+    "static/media/pablo-basketball-game.png": "/dribbble-redesign/static/media/pablo-basketball-game.23386ed5.png",
+    "static/media/pablo-car-rental.png": "/dribbble-redesign/static/media/pablo-car-rental.41db05b4.png",
+    "static/media/pablo-cinema.png": "/dribbble-redesign/static/media/pablo-cinema.024dfd29.png",
+    "static/media/pablo-family.png": "/dribbble-redesign/static/media/pablo-family.49716ec4.png",
+    "static/media/pablo-healthy-life.png": "/dribbble-redesign/static/media/pablo-healthy-life.ccbe8621.png",
+    "static/media/pablo-unsubscribed.png": "/dribbble-redesign/static/media/pablo-unsubscribed.5bf0b66c.png",
+    "static/media/pablo-workshop.png": "/dribbble-redesign/static/media/pablo-workshop.c0a8206e.png"
+  }
+}
